@@ -1,2 +1,4 @@
 # hello-word
-Just another repository
+
+Hello everyone!
+My name Dat. I'm from VietNam. 
